@@ -1,0 +1,77 @@
+# 📋 **To-Do List App**
+
+A simple and responsive **To-Do List** application built with **HTML**, **CSS**, and **JavaScript**. The app allows you to add, edit, delete, and mark tasks as completed, with data persistence using **localStorage**.
+
+---
+
+## 🚀 **Features**
+- ✅ Add new tasks with a name and description.
+- ✍️ Edit existing tasks.
+- 🗑️ Delete tasks when no longer needed.
+- 📦 Data persistence using **localStorage**.
+- 🎨 Simple and clean UI design.
+
+---
+
+## 🛠️ **Technologies Used**
+- **HTML** - Structure of the app.
+- **CSS** - Styling and layout.
+- **JavaScript** - Application logic.
+- **localStorage** - For saving tasks locally in the browser.
+
+---
+
+## 📂 **Project Structure**
+```
+To-Do List App
+├── index.html        # HTML structure
+├── style.css         # CSS for styling
+└── script.js         # JavaScript for app functionality
+```
+
+---
+
+## ⚙️ **Setup & Installation**
+1. **Clone the repository:**
+```sh
+git clone https://github.com/your-username/todo-list-app.git
+```
+
+2. **Navigate to the project directory:**
+```sh
+cd todo-list-app
+```
+
+3. **Open `index.html` in your browser:**
+```sh
+open index.html
+```
+
+Or, you can directly open the `index.html` file by double-clicking on it.
+
+---
+
+## 🚦 **How to Use**
+1. Enter a **task name** and **description**.
+2. Click **Add** to save the task.
+3. Use **Edit**, **Delete**, and **Complete** options to manage tasks.
+
+---
+
+## 📸 **Screenshots**
+![To-Do List Screenshot](screenshot.png)
+
+---
+
+## 👨‍💻 **Contributing**
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or suggestions.
+
+---
+
+## 📄 **License**
+This project is licensed under the **MIT License**.
+
+---
+
+## 🌟 **Acknowledgements**
+- Inspired by simple and effective task management solutions.
